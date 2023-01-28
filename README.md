@@ -9,8 +9,3 @@ Pratik-20/Pratik-20 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 
 
-
- 
- 
- 
-![Programmer-1](https://user-images.githubusercontent.com/86850437/215259011-a857812d-cffa-44e7-829e-58914705596b.jpg)
