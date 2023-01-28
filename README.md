@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on Automation Projects.
 - 📫 How to reach me :- pratikthorawade20@gmail.com
 
-<!---
-Pratik-20/Pratik-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
+![Programmer-1](https://user-images.githubusercontent.com/86850437/215259192-568b645c-2448-4f5a-adaa-95757b3c55fd.jpg)
