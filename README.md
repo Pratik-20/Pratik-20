@@ -1,4 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/{Pratik-20}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Pratik-20}/count.svg)
+
+ <img src="https://komarev.com/ghpvc/?username=Pratik-20&style=flat-square&color=blue" alt=""/>
 
 
 - 👋 Hi, I’m @Pratik-20
