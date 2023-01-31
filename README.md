@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/{Pratik-20}/count.svg)
+
+
 - 👋 Hi, I’m @Pratik-20
 - 👀 I’m interested in Automation and Robotics🤖🤖...!!! 
 - 🌱 I’m currently learning Python and Machine Learning. 
