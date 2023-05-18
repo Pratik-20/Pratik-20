@@ -23,6 +23,11 @@
      <a href="https://twitter.com/pratikthorawad1">
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
      </a>
+     <a href="https://WhatsApp.com/pratikthorawad1">
+        <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+     </a>
+     <a href="https://Telegram.com/pratikthorawad1">                                                                                                         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+     </a>
    </div>
 
 [![Pratik Thorawade's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pratik-20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
