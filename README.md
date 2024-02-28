@@ -1,5 +1,7 @@
  <img src="https://komarev.com/ghpvc/?username=Pratik-20&style=flat-square&color=blue" alt=""/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-20&theme=dracula)](https://github.com/Pratik-20/github-readme-activity-graph)
+
 
 - 👋 Hi, I’m @Pratik-20
 - 👀 I’m interested in Automation and Robotics🤖🤖...!!! 
