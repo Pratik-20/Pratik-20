@@ -36,7 +36,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pratik-20&theme=onedark)](https://github.com/Pratik-20/github-profile-trophy)
 
-Available value: boolean type (true or false)
-Default: no-frame=false
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
