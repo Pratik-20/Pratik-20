@@ -33,3 +33,5 @@
 [![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-20&theme=dracula)](https://github.com/Pratik-20/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pratik-20)](https://github.com/Pratik-20/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pratik-20&theme=onedark)](https://github.com/Pratik-20/github-profile-trophy)
