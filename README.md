@@ -36,3 +36,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pratik-20&theme=onedark)](https://github.com/Pratik-20/github-profile-trophy)
 
+https://github.com/idimetrix/idimetrix/blob/main/profile-3d-contrib/profile-green-animate.svg
